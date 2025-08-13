@@ -4,7 +4,7 @@
 Check out my personal portfolio website here:  
 [💻 My Portfolio](https://my-profile-1-xs3h.onrender.com)
 
-<!--
+
 ## 💼 Professional Summary
   A motivated and detail-oriented Computer Science candidate with hands-on experience in web development, data transformation, and cloud computing. Skilled in building responsive web applications and developing interactive dashboards using Power BI. Passionate about solving real-world problems through technology and eager to contribute to collaborative, fast-paced development teams.
 
@@ -41,4 +41,4 @@ Check out my personal portfolio website here:
   - Microsoft Azure Fundamentals (AZ-900) | Microsoft, January 2025  
   - Data Science Learnership Certificate | Netcampus, January 2025  
   - Microsoft AI Fluency | Netcampus, July 2025  
-  -->
+    
