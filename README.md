@@ -2,7 +2,7 @@
 
 ## 🌐 Personal Portfolio
 Check out my personal portfolio website here:  
-[💻 My Portfolio](https://my-profile-1-xs3h.onrender.com)
+[💻 My Portfolio](https://my-profile-2-2euk.onrender.com)
 
 
 ## 💼 Professional Summary
