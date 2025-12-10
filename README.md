@@ -59,16 +59,28 @@ I am passionate about building intelligent systems, exploring emerging technolog
 ---
 ### Skills & Competencies Badges
 
+### Skills & Competencies Badges
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JVM](https://img.shields.io/badge/JVM-4B0082?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Glassfish](https://img.shields.io/badge/Glassfish-FF7F50?style=for-the-badge)
+![Java API](https://img.shields.io/badge/Java%20API-F05032?style=for-the-badge)
+![Java DB](https://img.shields.io/badge/Java%20DB-FF6600?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful%20API-FF8C00?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=Keras&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-4B0082?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-008080?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-00CED1?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF8C00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 ## Certifications
