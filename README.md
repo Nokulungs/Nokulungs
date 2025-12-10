@@ -1,44 +1,83 @@
-## Hi there, I am Sibongokuhle Bembe 👋
+# Sibongokuhle Nokulunga Bembe
 
-## 🌐 Personal Portfolio
-Check out my personal portfolio website here:  
-[💻 My Portfolio](https://my-profile-2-2euk.onrender.com)
-
-
-## 💼 Professional Summary
-  A motivated and detail-oriented Computer Science candidate with hands-on experience in web development, data transformation, and cloud computing. Skilled in building responsive web applications and developing interactive dashboards using Power BI. Passionate about solving real-world problems through technology and eager to contribute to collaborative, fast-paced development teams.
-
-## 🛠 Skills Summary
-  **Languages:** Java, Python, JavaScript, Kotlin, SQL, PL/SQL  
-  **Frameworks:** Flask, Django, JEE, JPA  
-  **Platforms/Tools:** VS Code, NetBeans, Sublime Text, Android Studio, PgAdmin, Git, GitHub, Figma, Glassfish  
-  **Databases:** Java DB, PostgreSQL  
-  **Soft Skills:** Problem-Solving, Teamwork, Communication, Adaptability, Time Management, Critical Thinking.
-
-## 📂 Projects
-
-**MEB Hub – Campus Navigation, Events & Transport Platform** *(Group Project)*  
-  - Collaborated on a web application assisting university students with navigating campus life.  
-  - Enabled students to locate campus facilities, view event schedules, and access bus routes and transport timetables.  
-  - Contributed to frontend development (HTML, CSS, JavaScript) and backend functionality using Django with PostgreSQL.  
-
-**Apply Smart – APS Calculator & University Program Matcher**  
-  - Developed a responsive web app for South African high school students to calculate APS and discover eligible university programs.  
-  - Used Python (Flask) with WTForms for dynamic form handling and APS logic based on subject marks.  
-  - Implemented JavaScript, HTML, and CSS to create a clean, mobile-friendly UI.  
-  - Provided real-time feedback on course eligibility based on university-specific thresholds.  
-
-**Power BI Dashboard – Mental Health in Tech Industry**  
-  - Designed a 3-page interactive dashboard analyzing mental health survey data from tech professionals.  
-  - Transformed raw CSV data using Power Query in Power BI Desktop.  
-  - Created column charts, pie charts, and stacked bar charts with dynamic slicers for gender and age group.  
-  - Focused on clear storytelling, demographic analysis, and workplace support trends.  
+**Computer Science Graduate | AI & Data Enthusiast | Aspiring Software Engineer**
 
 ---
 
-## 📜 Certifications
+## About Me
+I am a motivated and detail-oriented Computer Science graduate with strong foundations in software development, AI, and data-driven problem solving.  
+I am passionate about building intelligent systems, exploring emerging technologies, and applying practical solutions to real-world challenges.
 
-  - Microsoft Azure Fundamentals (AZ-900) | Microsoft, January 2025  
-  - Data Science Learnership Certificate | Netcampus, January 2025  
-  - Microsoft AI Fluency | Netcampus, July 2025  
-    
+
+
+---
+
+## Skills & Competencies
+
+### Artificial Intelligence & Machine Learning
+- Artificial Intelligence  
+- Machine Learning  
+- Deep Learning  
+- Generative AI  
+- Responsible AI  
+- Data Ethics  
+- Artificial Neural Networks  
+- Natural Language Processing (NLP)  
+- AI Product Strategy  
+- Risk Mitigation  
+
+### Data Science & Analytics
+- Data Science  
+- Business Intelligence  
+- Data Import & Export  
+- Data Structures  
+- Automation  
+- Pandas (Python)  
+- Web Scraping  
+
+### Programming & Technical Skills
+- Python Programming  
+- Computer Programming  
+- Scripting  
+- JSON  
+- RESTful APIs  
+- API Integration  
+
+### Strategic & Analytical Thinking
+- Strategic Thinking  
+- Problem-Solving  
+- Decision-Making  
+
+### Tools & Technologies
+- Python, Pandas, NumPy, Jupyter Notebook  
+- Git & GitHub  
+- VS Code, NetBeans, Android Studio  
+- REST APIs & JSON handling  
+- Automation & Web Scraping tools  
+- No-code / low-code AI tools  
+
+---
+
+## Certifications
+- **Microsoft Azure Fundamentals (AZ-900)** – Jan 2025  
+- **Data Science Learnership Certificate** – Netcampus, Jan 2025  
+- **Microsoft AI Fluency** – July 2025
+- **AI For Everyone** – deeplearning.ai  
+  *Skills gained:* Artificial Intelligence, Machine Learning, Responsible AI, Deep Learning, Strategic Thinking, Data Science, Artificial Neural Networks, Data Ethics, AI Product Strategy
+
+- **Introduction to Artificial Intelligence (AI)** – IBM  
+  *Skills gained:* Generative AI, Natural Language Processing, Content Creation, Business Intelligence, Risk Mitigation, Responsible AI
+
+- **Introduction to Generative AI** – Google Cloud  
+  *Skills gained:* Generative AI, Natural Language Processing, Google Cloud Platform, Artificial Intelligence, Machine Learning Methods, Deep Learning
+
+- **AI Essentials** – Intel  
+  *Skills gained:* Artificial Intelligence, Machine Learning, B2B Sales, Business Research, Generative AI, Responsible AI, AI Product Strategy
+
+- **Python for Data Science, AI & Development** – IBM  
+  *Skills gained:* Python Programming, Pandas, Web Scraping, Data Structures, NumPy, APIs, JSON, Data Manipulation, Jupyter, Object-Oriented Programming (OOP), Data Import/Export, Scripting, RESTful API, Automation, Data Processing, Data Analysis, Programming Principles
+
+---
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/sibongokuhle-bembe-a94a00347/ 
