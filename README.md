@@ -57,6 +57,19 @@ I am passionate about building intelligent systems, exploring emerging technolog
 - No-code / low-code AI tools  
 
 ---
+### Skills & Competencies Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=Keras&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-4B0082?style=for-the-badge)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-008080?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-00CED1?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF8C00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## Certifications
 - **Microsoft Azure Fundamentals (AZ-900)** – Jan 2025  
