@@ -1,53 +1,69 @@
-# Hi there, I'm Sibongokuhle! 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# 🚀 Sibongokuhle Nokulunga Bembe
+### Computer Science Graduate | AI & Data Enthusiast | Aspiring Software Engineer
 
-### 🎓 Computer Science Graduate | AI & Data Enthusiast | Aspiring Software Engineer
-
-I am a motivated and detail-oriented Computer Science graduate with strong foundations in software development, AI, and data-driven problem solving. I am passionate about building intelligent systems and applying practical solutions to real-world challenges.
-
-
-
-## Tech Stack & Tools
-
-### Languages & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch" alt="AI & Data" />
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,androidstudio,pwc" alt="Tools" />
-</p>
-
-### Web & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,postman" alt="Web" />
-</p>
-
-
-## Certifications
-- **Microsoft Azure Fundamentals (AZ-900)** – Jan 2025  
-- **Data Science Learnership Certificate** – Netcampus, Jan 2025  
-- **Microsoft AI Fluency** – July 2025
-- **AI For Everyone** – deeplearning.ai  
-  *Skills gained:* Artificial Intelligence, Machine Learning, Responsible AI, Deep Learning, Strategic Thinking, Data Science, Artificial Neural Networks, Data Ethics, AI Product Strategy
-
-- **Introduction to Artificial Intelligence (AI)** – IBM  
-  *Skills gained:* Generative AI, Natural Language Processing, Content Creation, Business Intelligence, Risk Mitigation, Responsible AI
-
-- **Introduction to Generative AI** – Google Cloud  
-  *Skills gained:* Generative AI, Natural Language Processing, Google Cloud Platform, Artificial Intelligence, Machine Learning Methods, Deep Learning
-
-- **AI Essentials** – Intel  
-  *Skills gained:* Artificial Intelligence, Machine Learning, B2B Sales, Business Research, Generative AI, Responsible AI, AI Product Strategy
-
-- **Python for Data Science, AI & Development** – IBM  
-  *Skills gained:* Python Programming, Pandas, Web Scraping, Data Structures, NumPy, APIs, JSON, Data Manipulation, Jupyter, Object-Oriented Programming (OOP), Data Import/Export, Scripting, RESTful API, Automation, Data Processing, Data Analysis, Programming Principles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibongokuhle-bembe-a94a00347/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-## Contact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" height="150" />
+</p>
+
+</div>
+
+## 📖 About Me
+I am a motivated and detail-oriented Computer Science graduate with strong foundations in software development, AI, and data-driven problem solving. I specialize in building intelligent systems and applying practical solutions to real-world challenges.
+
+---
+
+## 🛠 Technical Skill Set
+
+### 🧠 AI & Data Science
+| | |
+| :--- | :--- |
+| **Machine Learning** | Scikit-learn, Neural Networks, Deep Learning, NLP |
+| **Generative AI** | Prompt Engineering, Responsible AI, Data Ethics |
+| **Data Tools** | Pandas, NumPy, Power BI, Web Scraping, Data Automation |
+
+### 💻 Software Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,django,flask,html,css" alt="Development" />
+</p>
+
+### ⚙️ DevOps & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode,postman" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Glassfish-FF5722?style=flat-square&logo=eclipseglassfish&logoColor=white" alt="Glassfish" height="40" />
+</p>
+
+---
+
+## 🏅 Professional Certifications
+> A collection of my recent academic and professional milestones.
+
+| Provider | Certification | Date |
+| :---: | :--- | :--- |
+| <img src="https://logo.clearbit.com/microsoft.com" width="25"/> | **Azure Fundamentals (AZ-900)** | Jan 2025 |
+| <img src="https://logo.clearbit.com/microsoft.com" width="25"/> | **Microsoft AI Fluency** | July 2025 |
+| <img src="https://logo.clearbit.com/netcampus.com" width="25"/> | **Data Science Learnership** | Jan 2025 |
+| <img src="https://logo.clearbit.com/ibm.com" width="25"/> | **Python for Data Science, AI & Dev** | 2024 |
+| <img src="https://logo.clearbit.com/google.com" width="25"/> | **Introduction to Generative AI** | 2024 |
+
+---
+
+## 📈 Activity Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</p>
+
+---
+
+<div align="center">
+  <em>“Applying intelligence to data to build a better future.”</em>
+</div>
 LinkedIn: https://www.linkedin.com/in/sibongokuhle-bembe-a94a00347/ 
