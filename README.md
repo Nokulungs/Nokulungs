@@ -1,86 +1,34 @@
-# Sibongokuhle Nokulunga Bembe
+# Hi there, I'm Sibongokuhle! 👋
 
-**Computer Science Graduate | AI & Data Enthusiast | Aspiring Software Engineer**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
----
+### 🎓 Computer Science Graduate | AI & Data Enthusiast | Aspiring Software Engineer
 
-## About Me
-I am a motivated and detail-oriented Computer Science graduate with strong foundations in software development, AI, and data-driven problem solving.  
-I am passionate about building intelligent systems, exploring emerging technologies, and applying practical solutions to real-world challenges.
+I am a motivated and detail-oriented Computer Science graduate with strong foundations in software development, AI, and data-driven problem solving. I am passionate about building intelligent systems and applying practical solutions to real-world challenges.
 
 
-
----
-
-## Skills & Competencies
-
-### Artificial Intelligence & Machine Learning
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- Generative AI  
-- Responsible AI  
-- Data Ethics  
-- Artificial Neural Networks  
-- Natural Language Processing (NLP)  
-- AI Product Strategy  
-- Risk Mitigation  
-
-### Data Science & Analytics
-- Data Science  
-- Business Intelligence  
-- Data Import & Export  
-- Data Structures  
-- Automation  
-- Pandas (Python)  
-- Web Scraping  
-
-### Programming & Technical Skills
-- Python Programming  
-- Computer Programming  
-- Scripting  
-- JSON  
-- RESTful APIs  
-- API Integration  
-
-### Strategic & Analytical Thinking
-- Strategic Thinking  
-- Problem-Solving  
-- Decision-Making  
-
-### Tools & Technologies
-- Python, Pandas, NumPy, Jupyter Notebook  
-- Git & GitHub  
-- VS Code, NetBeans, Android Studio  
-- REST APIs & JSON handling  
-- Automation & Web Scraping tools  
-- No-code / low-code AI tools  
 
 ---
-### Skills & Competencies Badges
 
-### Skills & Competencies Badges
+## 🛠 My Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JVM](https://img.shields.io/badge/JVM-4B0082?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Glassfish](https://img.shields.io/badge/Glassfish-FF7F50?style=for-the-badge)
-![Java API](https://img.shields.io/badge/Java%20API-F05032?style=for-the-badge)
-![Java DB](https://img.shields.io/badge/Java%20DB-FF6600?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful%20API-FF8C00?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=Keras&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-4B0082?style=for-the-badge)
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-008080?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-00CED1?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🤖 Artificial Intelligence & Machine Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+### 💻 Development & Tools
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### 📊 Data & APIs
+![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
+![REST API](https://img.shields.io/badge/rest_api-021733?style=for-the-badge&logo=api&logoColor=white)
 
 
 ## Certifications
