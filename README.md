@@ -10,15 +10,14 @@
 ---
 
 <p align="center">
-  <h3 align="center">🛠️ My Tech Toolbox</h3>
+  <!-- Snake game eating your contributions -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
   
-  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  <!-- Profile view counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00FF9D&style=flat-square" alt="Profile Views" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" height="200" />
+  <!-- Random dev quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes" />
 </p>
 
 </div>
