@@ -43,35 +43,36 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
 
 ---
 
+🚀 Featured Projects
 <div align="center">
-  <h2>🎨 Featured Projects</h2>
-  
-  <table>
-    <tr>
-      <td>
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px;">
-          <h3>🤖 AI Sentiment Analyzer</h3>
-          <p>Real-time NLP with 95% accuracy</p>
-          <div>
-            <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" alt="Python">
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-          </div>
-          <br>
-          <a href="#" style="color: white; text-decoration: none; background: rgba(255,255,255,0.2); padding: 5px 15px; border-radius: 20px;">View Project →</a>
-        </div>
-      </td>
-      <td>
-        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px;">
-          <h3>🛍️ E-Commerce Platform</h3>
-          <p>Full-stack with secure payments</p>
-          <div>
-            <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-            <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white" alt="Stripe">
-          </div>
-          <br>
-          <a href="#" style="color: white; text-decoration: none; background: rgba(255,255,255,0.2); padding: 5px 15px; border-radius: 20px;">View Project →</a>
-        </div>
-      </td>
-    </tr>
-  </table>
+✨ What I've Built
+🤖 AI Mood Detective
+Real-time sentiment analysis with 95% accuracy	🛍️ CommerceHub
+Full-stack shopping with secure payments	📈 InsightEngine
+BI dashboard for million-row datasets
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">	<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+📁 Code · 🚀 Demo	📁 Code · 🔒 Private	📁 Code · 📊 Preview
+</div>
+🎯 Project Highlights
+<div align="center">
+bash
+# Quick project preview
+┌─────────────────────────────────────────────────────┐
+│  🔥 95% accuracy in sentiment classification        │
+│  ⚡ 200ms response time for real-time analysis       │
+│  📊 1M+ rows processed in under 3 seconds           │
+└─────────────────────────────────────────────────────┘
+</div>
+<div align="center">
+📦 Tech Stack at a Glance
+AI/ML	Web Dev	Data/Cloud
+https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat	https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat	https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=flat
+https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat	https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat	https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat
+https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat	https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat	https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=flat
+</div>
+<div align="center">
+💡 Want to see more? Check out my GitHub for complete projects!
+
+<sub>✨ Pro tip: Click the badges to explore each technology!</sub>
+
 </div>
