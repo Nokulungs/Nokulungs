@@ -82,18 +82,22 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
 
 ## 📊 My GitHub Journey
 
+---
+
+## 📊 My GitHub Journey
+
 ### 🗓️ Weekly Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?Nokulungs=YOUR-Nokulungs&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nokulungs&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Nokulungs=YOUR-Nokulungs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-Nokulungs&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nokulungs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nokulungs&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-Nokulungs&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nokulungs&theme=tokyonight" width="100%" />
 </p>
 
 ---
