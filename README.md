@@ -43,18 +43,50 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
 
 ---
 
-## 🏅 Professional Certifications
-> A collection of my recent academic and professional milestones.
+## 🚀 Featured Projects
 
-| Provider | Certification | Date |
-| :---: | :--- | :--- |
-| <img src="https://logo.clearbit.com/microsoft.com" width="25"/> | **Azure Fundamentals (AZ-900)** | Jan 2025 |
-| <img src="https://logo.clearbit.com/microsoft.com" width="25"/> | **Microsoft AI Fluency** | July 2025 |
-| <img src="https://logo.clearbit.com/netcampus.com" width="25"/> | **Data Science Learnership** | Jan 2025 |
-| <img src="https://logo.clearbit.com/ibm.com" width="25"/> | **Python for Data Science, AI & Dev** | 2024 |
-| <img src="https://logo.clearbit.com/google.com" width="25"/> | **Introduction to Generative AI** | 2024 |
-
----
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Sentiment Analyzer</h3>
+      <p>An intelligent NLP tool that classifies user feedback in real-time using Deep Learning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      </p>
+      <a href="INSERT_LINK_HERE">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack E-Commerce</h3>
+      <p>A scalable web application featuring user authentication, payment integration, and a Django backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="INSERT_LINK_HERE">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Sales Insights Dashboard</h3>
+      <p>Interactive Power BI dashboard analyzing 1M+ rows of retail data to identify growth trends.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <a href="INSERT_LINK_HERE">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 More Projects...</h3>
+      <p>Check out my repositories for more work on Java automation, Glassfish server deployments, and Web Scraping.</p>
+      <br>
+      <a href="https://github.com/YOUR-USERNAME?tab=repositories">📂 Browse All Repos</a>
+    </td>
+  </tr>
+</table>
 
 ## 📈 Activity Streak
 <p align="center">
