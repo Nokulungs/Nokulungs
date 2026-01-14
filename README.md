@@ -10,8 +10,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" height="150" />
+  <!-- Animated tech stack -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Python+%7C+React+%7C+FastAPI;TensorFlow+%7C+Docker+%7C+AWS;PostgreSQL+%7C+PowerBI+%7C+Spark" alt="Tech Stack" />
+  
+  <!-- Compact stats with better visual -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF9D" alt="Streak" height="150" />
 </p>
 
 </div>
