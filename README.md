@@ -10,11 +10,15 @@
 ---
 
 <p align="center">
-  <!-- Animated tech stack -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Python+%7C+React+%7C+FastAPI;TensorFlow+%7C+Docker+%7C+AWS;PostgreSQL+%7C+PowerBI+%7C+Spark" alt="Tech Stack" />
+  <h3 align="center">🛠️ My Tech Toolbox</h3>
   
-  <!-- Compact stats with better visual -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF9D" alt="Streak" height="150" />
+  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" height="200" />
 </p>
 
 </div>
