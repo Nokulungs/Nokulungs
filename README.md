@@ -10,14 +10,15 @@
 ---
 
 <p align="center">
-  <!-- Snake game eating your contributions -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+  <!-- Focus on what matters -->
+  <h3 align="center">📈 Impact Metrics</h3>
   
-  <!-- Profile view counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00FF9D&style=flat-square" alt="Profile Views" />
+  ![Code Time](http://img.shields.io/badge/Code%20Time-500%2B%20hours-blue?style=for-the-badge)
+  ![Projects](http://img.shields.io/badge/Projects%20Shipped-12%2B-success?style=for-the-badge)
+  ![Contributions](http://img.shields.io/badge/Year%20Contributions-1.2k%2B-brightgreen?style=for-the-badge)
   
-  <!-- Random dev quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes" />
+  <!-- Wakatime stats if you code a lot -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime" height="150" />
 </p>
 
 </div>
