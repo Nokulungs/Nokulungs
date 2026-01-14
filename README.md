@@ -10,15 +10,11 @@
 ---
 
 <p align="center">
-  <!-- Focus on what matters -->
-  <h3 align="center">📈 Impact Metrics</h3>
+  <!-- Cool GitHub trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
   
-  ![Code Time](http://img.shields.io/badge/Code%20Time-500%2B%20hours-blue?style=for-the-badge)
-  ![Projects](http://img.shields.io/badge/Projects%20Shipped-12%2B-success?style=for-the-badge)
-  ![Contributions](http://img.shields.io/badge/Year%20Contributions-1.2k%2B-brightgreen?style=for-the-badge)
-  
-  <!-- Wakatime stats if you code a lot -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime" height="150" />
+  <!-- Metrics with custom layout -->
+  <img src="https://metrics.lecoq.io/YOUR-USERNAME?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York" alt="Metrics" width="600" />
 </p>
 
 </div>
