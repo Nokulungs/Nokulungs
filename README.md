@@ -82,23 +82,33 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
 
 ---
 
-## 📊 Performance Metrics
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Nokulungs&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokulungs&layout=compact&theme=vision-glow&hide_border=true&card_width=350" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nokulungs&show_icons=true&theme=vision-glow&hide_border=true&count_private=true" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nokulungs&theme=vision-glow&hide_border=true" width="100%" />
-</p>
-
----
-
+📊 Developer Analytics Dashboard
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Nokulungs&fontSize=40&animation=fadeIn" width="100%"/>
-</div>
+🎯 Performance Metrics
+<!-- 3D Contribution Graph --><p align="center"> <img src="https://github-profile-3d-contrib.vercel.app/api?username=Nokulungs&theme=tokyonight&border_color=00FF9D&border_radius=20" width="90%" alt="3D Contribution Graph" /> <sub><em>✨ Interactive 3D visualization of my contributions over time</em></sub> </p>
+⚡ Real-Time Stats
+<p align="center"> <!-- Animated stats with glow effect --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokulungs&layout=compact&theme=vision-friendly-dark&hide_border=false&card_width=350&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_color=00FF9D&border_radius=10" height="200" alt="Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=Nokulungs&show_icons=true&theme=vision-friendly-dark&hide_border=false&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&icon_color=00FF9D&border_color=00FF9D&border_radius=10&custom_title=Nokulungs's%20GitHub%20Stats" height="200" alt="GitHub Stats" /> </p>
+🔥 Consistency Heatmap
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Nokulungs&theme=vision-friendly-dark&hide_border=false&background=0D1117&border=00FF9D&stroke=00FF9D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00FF9D&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="90%" alt="GitHub Streak" /> </p>
+📈 Activity Timeline
+<p align="center"> <!-- Animated graph with gradient --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nokulungs&theme=react-dark&hide_border=false&bg_color=0D1117&color=00FF9D&line=FF6B6B&point=FFFFFF&area=true&area_color=00FF9D&custom_title=Weekly%20Development%20Activity&border_color=00FF9D&border_radius=10" width="90%" alt="Activity Graph" /> </p>
+🏆 Achievements & Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nokulungs&theme=onedark&no-frame=false&row=2&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,Followers,Stars" alt="GitHub Trophies" /> </p>
+📊 Detailed Metrics
+<p align="center"> <table> <tr> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nokulungs&theme=github_dark" height="180" alt="Profile Details" /> </td> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nokulungs&theme=github_dark" height="180" alt="Most Commit Language" /> </td> </tr> <tr> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nokulungs&theme=github_dark" height="180" alt="Repos per Language" /> </td> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nokulungs&theme=github_dark&utcOffset=2" height="180" alt="Productive Time" /> </td> </tr> </table> </p>
+🎨 Custom Styled Footer
+<div align="center">
+typescript
+// Nokulungs.dev
+const developer = {
+  status: '👨‍💻 Currently coding',
+  focus: 'Full-Stack Development & AI',
+  philosophy: 'Build → Learn → Iterate',
+  metrics: {
+    commits: '1,500+',
+    projects: '15+',
+    languages: '7+',
+    years: '3+'
+  }
+};
+<!-- Animated wave footer --><a href="https://github.com/Nokulungs"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,50:FF6B6B,100:00FF9D&height=120&section=footer&text=🚀%20Thanks%20for%20visiting!%20🌟&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Footer" /> </a></div>
