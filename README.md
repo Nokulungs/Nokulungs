@@ -45,54 +45,46 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
 
 ## 🚀 Featured Projects
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Sentiment Analyzer</h3>
-      <p>An intelligent NLP tool that classifies user feedback in real-time using Deep Learning.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      </p>
-      <a href="INSERT_LINK_HERE">🔗 View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Full-Stack E-Commerce</h3>
-      <p>A scalable web application featuring user authentication, payment integration, and a Django backend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <a href="INSERT_LINK_HERE">🔗 View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Sales Insights Dashboard</h3>
-      <p>Interactive Power BI dashboard analyzing 1M+ rows of retail data to identify growth trends.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>
-      <a href="INSERT_LINK_HERE">🔗 View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 More Projects...</h3>
-      <p>Check out my repositories for more work on Java automation, Glassfish server deployments, and Web Scraping.</p>
-      <br>
-      <a href="https://github.com/YOUR-USERNAME?tab=repositories">📂 Browse All Repos</a>
-    </td>
-  </tr>
-</table>
+---
 
-## 📈 Activity Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-</p>
+### 🤖 AI Sentiment Analyzer
+> **Natural Language Processing & Deep Learning**
 
+An intelligent NLP tool that classifies user feedback in real-time. Built to demonstrate high-accuracy text classification and real-time API deployment.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+[📂 View Repository](INSERT_LINK_HERE) | [🌐 Live Demo](INSERT_LINK_HERE)
+
+---
+
+### 🌐 Full-Stack E-Commerce Platform
+> **Scalable Web Architecture**
+
+A high-performance web application featuring custom user authentication, secure payment integration, and a dynamic product catalog.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[📂 View Repository](INSERT_LINK_HERE)
+
+---
+
+### 📊 Sales Insights Dashboard
+> **Data Analytics & Business Intelligence**
+
+An interactive Power BI dashboard that transforms 1M+ rows of raw retail data into actionable business insights and growth forecasts.
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+[📂 View Repository](INSERT_LINK_HERE)
+
+---
 ---
 
 <div align="center">
