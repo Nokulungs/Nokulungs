@@ -43,27 +43,35 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
 
 ---
 
-🚀 Featured Projects
 <div align="center">
-🤖 AI Sentiment Analyzer
-Natural Language Processing & Deep Learning
-Real-time text classification with high accuracy and API deployment.
-
-<div> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"> </div>
-📂 Repository · 🌐 Live Demo
-
-🌐 Full-Stack E-Commerce Platform
-Scalable Web Architecture
-Custom auth, secure payments, and dynamic catalog in a containerized app.
-
-<div> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> </div>
-📂 Repository
-
-📊 Sales Insights Dashboard
-Data Analytics & Business Intelligence
-Interactive dashboard transforming 1M+ rows into actionable insights.
-
-<div> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> </div>
-📂 Repository
-
+  <h2>🎨 Featured Projects</h2>
+  
+  <table>
+    <tr>
+      <td>
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px;">
+          <h3>🤖 AI Sentiment Analyzer</h3>
+          <p>Real-time NLP with 95% accuracy</p>
+          <div>
+            <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" alt="Python">
+            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+          </div>
+          <br>
+          <a href="#" style="color: white; text-decoration: none; background: rgba(255,255,255,0.2); padding: 5px 15px; border-radius: 20px;">View Project →</a>
+        </div>
+      </td>
+      <td>
+        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px;">
+          <h3>🛍️ E-Commerce Platform</h3>
+          <p>Full-stack with secure payments</p>
+          <div>
+            <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+            <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white" alt="Stripe">
+          </div>
+          <br>
+          <a href="#" style="color: white; text-decoration: none; background: rgba(255,255,255,0.2); padding: 5px 15px; border-radius: 20px;">View Project →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
