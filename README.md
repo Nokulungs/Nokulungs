@@ -10,25 +10,22 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
 
 
 
----
+## Tech Stack & Tools
 
-## 🛠 My Toolbox
+### Languages & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch" alt="AI & Data" />
+</p>
 
-### 🤖 Artificial Intelligence & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,androidstudio,pwc" alt="Tools" />
+</p>
 
-### 💻 Development & Tools
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 📊 Data & APIs
-![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
-![REST API](https://img.shields.io/badge/rest_api-021733?style=for-the-badge&logo=api&logoColor=white)
+### Web & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,postman" alt="Web" />
+</p>
 
 
 ## Certifications
