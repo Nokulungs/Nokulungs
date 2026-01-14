@@ -78,3 +78,27 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
     </tr>
   </table>
 </div>
+---
+
+## 📊 My GitHub Journey
+
+### 🗓️ Weekly Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+<div align="center">
+  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%"/>
+</div>
