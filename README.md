@@ -44,40 +44,7 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
   <img src="https://img.shields.io/badge/Glassfish-FF5722?style=flat-square&logo=eclipseglassfish&logoColor=white" alt="Glassfish" height="40" />
 </p>
 
----
 
-<div align="center">
-  <h2> Featured Projects</h2>
-  
-  <table>
-    <tr>
-      <td>
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px;">
-          <h3>🤖 AI Sentiment Analyzer</h3>
-          <p>Real-time NLP with 95% accuracy</p>
-          <div>
-            <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" alt="Python">
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-          </div>
-          <br>
-          <a href="#" style="color: white; text-decoration: none; background: rgba(255,255,255,0.2); padding: 5px 15px; border-radius: 20px;">View Project →</a>
-        </div>
-      </td>
-      <td>
-        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px;">
-          <h3>🛍️ E-Commerce Platform</h3>
-          <p>Full-stack with secure payments</p>
-          <div>
-            <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-            <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white" alt="Stripe">
-          </div>
-          <br>
-          <a href="#" style="color: white; text-decoration: none; background: rgba(255,255,255,0.2); padding: 5px 15px; border-radius: 20px;">View Project →</a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 ---
 
 ---
