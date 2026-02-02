@@ -10,11 +10,11 @@
 ---
 
 <p align="center">
-  <!-- Cool GitHub trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=REPLACE_WITH_YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=3" alt="Trophies" />
   
-  <!-- Metrics with custom layout -->
-  <img src="https://metrics.lecoq.io/YOUR-USERNAME?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York" alt="Metrics" width="600" />
+  <br />
+
+  <img src="https://metrics.lecoq.io/REPLACE_WITH_YOUR_USERNAME?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Europe%2FLondon" alt="Metrics" width="600" />
 </p>
 
 </div>
