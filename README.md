@@ -35,21 +35,17 @@ I am a motivated Computer Science graduate with a strong interest in **AI, data-
 
 ---
 
-## 🏆 GitHub Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nokulungs&theme=flat&no-frame=true&row=1&column=4" />
-</p>
-
----
-
-## 📊 Development Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nokulungs&show_icons=true&theme=github-light&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokulungs&layout=compact&theme=github-light&hide_border=true" height="170"/>
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nokulungs&theme=github-light&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nokulungs&show_icons=true&hide_border=true&theme=github-light"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokulungs&layout=compact&hide_border=true&theme=github-light"
+    height="170"
+  />
 </p>
 
 ---
