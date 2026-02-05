@@ -38,30 +38,24 @@ I am a motivated and detail-oriented Computer Science graduate with strong found
 ---
 
 ## 📊 Development Dashboard
-<div align="center">
-  
-### ⚡ Live Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nokulungs&show_icons=true&theme=default&hide_border=false&count_private=true&bg_color=ffffff&title_color=1f6feb&text_color=24292f&icon_color=1f6feb&border_color=e1e4e8" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokulungs&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=1f6feb&text_color=24292f&border_color=e1e4e8&langs_count=8" height="180" alt="Top Languages" />
-</p>
-
-### 🔥 Current Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nokulungs&theme=github-light&hide_border=false&background=ffffff&border=e1e4e8&stroke=1f6feb&ring=1f6feb&fire=FF6B6B&currStreakLabel=1f6feb&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=586069" width="60%" alt="GitHub Streak" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nokulungs&theme=onedark&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-</div>
-
----
 
 <div align="center">
 
+### 🎯 Quick Stats
+<!-- Compact, self-updated stats using GitHub's own API -->
+![Profile Views](https://komarev.com/ghpvc/?username=Nokulungs&color=blue&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Nokulungs?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Nokulungs?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars)
+
+### 📝 Recent Activity
+<!-- Automatically updates with your latest GitHub events -->
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:end -->
+
+*To enable this, create a `.github/workflows` file. See guide below.*
+
+### 🔥 Contribution Heatmap
+<!-- A visual, interactive representation of your work -->
 🚀 **Thanks for visiting!** 🌟
 
 <a href="https://github.com/Nokulungs">
